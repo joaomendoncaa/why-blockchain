@@ -1,6 +1,6 @@
 # Why Blockchains?
 
-This repository serves as **documentation to justify the existence of blockchain technology**. You can contribute to it adding or modifying any of the documents hosted in this repository. The final goal is to keep growing it as a source of truth for all things blockchain related. I envisoned it as a place where you can find the most amount of organized and (marketing) filtered information about the state of the art on blockchains. For now there's no structure to follow but I have some blurry ideas on making technical and opinionated documentation organized by blockchain and so on, and making a client to provide this information.. to be continued..
+This repository serves as **documentation to justify the existence of blockchain technology**. You can contribute to it adding or modifying any of the documents hosted in this repository. The final goal is to keep growing it as a source of truth for all things blockchain related. I envisoned it as a place where you can find the most amount of organized and (marketing) filtered information about the state of the art on blockchains. For now there's no structure to follow but I have some blurry ideas on making technical and unopinionated documentation targeted at each blockchain, making a client to provide this information.. to be continued..
 
 # Use cases for blockchain technology
 
